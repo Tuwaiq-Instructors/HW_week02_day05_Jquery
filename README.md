@@ -1,3 +1,3 @@
-# lab_week12_day02_jquery
+# Homework Todo for Jquery
 
 LIVE SITE https://angry-kepler-981d73.netlify.app/
